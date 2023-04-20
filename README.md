@@ -5,6 +5,9 @@
 <a href="www.linkedin.com/in/suhoparovaa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://vk.com/sukhoparovaa">
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
 <!--
 **suhoparovanastya/suhoparovanastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
