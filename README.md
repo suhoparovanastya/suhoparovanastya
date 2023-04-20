@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Anastasia<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I’m an aspiring QA Engineer from Russia, Yekaterinburg</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=15AE0D&background=000000&center=true&vCenter=true&multiline=true&width=430&height=75&lines=Hi+there%2C+I'm+Anastasia;I%E2%80%99m+an+aspiring+QA+Engineer+from+Russia%2C+Yekaterinburg" alt="Typing SVG" /></a>
 
 
 <!--
