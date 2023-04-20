@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=5032&pause=1000&multiline=true&width=1300&height=200&lines=Hi+there%2C+I'm+Anastasia;QA+Engineer+from+Yekaterinburg)](https://git.io/typing-svg)
+<a href="https://t.me/sukhoparova_a">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <!--
 **suhoparovanastya/suhoparovanastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
