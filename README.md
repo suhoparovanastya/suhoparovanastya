@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=5032&pause=1000&multiline=true&width=1200&height=200&lines=Hi+there%2C+I'm+Anastasia;I%E2%80%99m+an+aspiring+QA+Engineer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=5032&pause=1000&multiline=true&width=1300&height=200&lines=Hi+there%2C+I'm+Anastasia;QA+Engineer+from+Yekaterinburg)](https://git.io/typing-svg)
 
 <!--
 **suhoparovanastya/suhoparovanastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
