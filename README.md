@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Anastasia
+####I’m an aspiring QA Engineer
 
 <!--
 **suhoparovanastya/suhoparovanastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
