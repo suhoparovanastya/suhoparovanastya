@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=5032&pause=1000&multiline=true&width=1300&height=200&lines=Hi+there%2C+I'm+Anastasia;QA+Engineer+from+Yekaterinburg)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=100&color=31DF13&multiline=true&width=1700&height=300&lines=Hi+there%2C+I'm+Anastasia;QA+Engineer+from+Yekaterinburg)](https://git.io/typing-svg)
 <a href="https://t.me/sukhoparova_a">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
